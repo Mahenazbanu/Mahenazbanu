@@ -27,7 +27,7 @@ I'm passionate about **Artificial Intelligence**, **Cybersecurity**, and **Data 
 - ✅ Generative AI Essentials: Using LLMs to Work with Data  
 - ✅ IBM Granite Models for Software Development  
 
-> 🔗 All credentials are verified and available on my [LinkedIn](https://linkedin.com/in/your-profile) profile.
+> 🔗 All credentials are verified and available on my [LinkedIn](https://www.linkedin.com/in/mahenazbanu-shaikh) profile.
 
 ---
 
